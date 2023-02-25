@@ -7,3 +7,6 @@ What is a remote repository?
 
 A remote repository is a repositry that exists in the cloud that one or more users can push to to synchronize their code.  In a typical workflow, teammates would edit code locally, push their branches to the remote repository, and merge their changes into the main branch.
 Source: experience
+
+I ADDED THIS LINE JUST TO GET A MERGE CONFLICT!!!
+NOW IT IS RESOLVED!!!
